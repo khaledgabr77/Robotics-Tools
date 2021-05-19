@@ -32,3 +32,13 @@ sudo apt install cppcheck
 ```
 
 **clang-tools** [run the script](install_llvm_toolchain.sh)
+
+**ROS** [How install ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
+**VSCODE** [install Visual Studio Code](https://code.visualstudio.com/)
+
+install some important extension for Vscode [just run the script](install_vs_code_extensions.sh)
+
+
+**Sublime**  [install Sublim Text](https://www.sublimetext.com/3)
+
